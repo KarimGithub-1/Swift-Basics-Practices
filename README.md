@@ -4,12 +4,6 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 
 ## Example Screenshots
 
-![SwiftUI Example](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/320px-Swift_logo.svg.png)
-
-![SwiftUI Example](assets/fortnite2)
-
-![Image Description](images/Screenshot 2024-10-15 at 16.28.16.png)
-
 <img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.28.16.png" alt="Screenshot" width="300"/>
 <img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.28.32.png" alt="Screenshot" width="300"/>
 <img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.28.56.png" alt="Screenshot" width="300"/>
