@@ -9,3 +9,6 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 ![SwiftUI Example](assets/fortnite2)
 
 ![Image Description](images/Screenshot 2024-10-15 at 16.28.16.png)
+
+![Screenshot](BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.28.16.png)
+
