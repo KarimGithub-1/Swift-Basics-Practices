@@ -7,3 +7,5 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 ![SwiftUI Example](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/320px-Swift_logo.svg.png)
 
 ![SwiftUI Example](assets/fortnite2)
+
+![Image Description](assets/Screenshot 2024-10-15 at 16.28.16.png)
