@@ -6,17 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		8C3077242CBDC317003E403F /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3077232CBDC317003E403F /* GradientBootcamp.swift */; };
-		8C3077282CBE879D003E403F /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3077272CBE879D003E403F /* IconsBootcamp.swift */; };
-		8C30772A2CBE8B80003E403F /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3077292CBE8B80003E403F /* ImageBootcamp.swift */; };
-		8CED04422CBD649C007B8A97 /* TextPractical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CED04412CBD649C007B8A97 /* TextPractical.swift */; };
-		8CED04442CBD6811007B8A97 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CED04432CBD6811007B8A97 /* ShapesBootcamp.swift */; };
-		8CED04462CBD6864007B8A97 /* ShapesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CED04452CBD6864007B8A97 /* ShapesPractice.swift */; };
-		8CED04482CBD9973007B8A97 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CED04472CBD9973007B8A97 /* ColorsBootcamp.swift */; };
-		8CED044A2CBD9F97007B8A97 /* ColorsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CED04492CBD9F97007B8A97 /* ColorsPractice.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		8CED04222CBD431A007B8A97 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -35,17 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8C3077232CBDC317003E403F /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
-		8C3077272CBE879D003E403F /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
-		8C3077292CBE8B80003E403F /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		8CED04112CBD4318007B8A97 /* BootcampBeginner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BootcampBeginner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CED04212CBD431A007B8A97 /* BootcampBeginnerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BootcampBeginnerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CED042B2CBD431A007B8A97 /* BootcampBeginnerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BootcampBeginnerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8CED04412CBD649C007B8A97 /* TextPractical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPractical.swift; sourceTree = "<group>"; };
-		8CED04432CBD6811007B8A97 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
-		8CED04452CBD6864007B8A97 /* ShapesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesPractice.swift; sourceTree = "<group>"; };
-		8CED04472CBD9973007B8A97 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
-		8CED04492CBD9F97007B8A97 /* ColorsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -94,14 +75,6 @@
 		8CED04082CBD4318007B8A97 = {
 			isa = PBXGroup;
 			children = (
-				8C3077292CBE8B80003E403F /* ImageBootcamp.swift */,
-				8C3077272CBE879D003E403F /* IconsBootcamp.swift */,
-				8C3077232CBDC317003E403F /* GradientBootcamp.swift */,
-				8CED04492CBD9F97007B8A97 /* ColorsPractice.swift */,
-				8CED04472CBD9973007B8A97 /* ColorsBootcamp.swift */,
-				8CED04432CBD6811007B8A97 /* ShapesBootcamp.swift */,
-				8CED04452CBD6864007B8A97 /* ShapesPractice.swift */,
-				8CED04412CBD649C007B8A97 /* TextPractical.swift */,
 				8CED04132CBD4318007B8A97 /* BootcampBeginner */,
 				8CED04242CBD431A007B8A97 /* BootcampBeginnerTests */,
 				8CED042E2CBD431A007B8A97 /* BootcampBeginnerUITests */,
@@ -263,14 +236,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8CED04442CBD6811007B8A97 /* ShapesBootcamp.swift in Sources */,
-				8C3077282CBE879D003E403F /* IconsBootcamp.swift in Sources */,
-				8CED04482CBD9973007B8A97 /* ColorsBootcamp.swift in Sources */,
-				8CED04462CBD6864007B8A97 /* ShapesPractice.swift in Sources */,
-				8CED044A2CBD9F97007B8A97 /* ColorsPractice.swift in Sources */,
-				8CED04422CBD649C007B8A97 /* TextPractical.swift in Sources */,
-				8C30772A2CBE8B80003E403F /* ImageBootcamp.swift in Sources */,
-				8C3077242CBDC317003E403F /* GradientBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
