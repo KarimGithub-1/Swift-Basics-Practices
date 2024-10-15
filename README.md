@@ -11,7 +11,5 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 <img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.28.56.png" alt="Screenshot" width="300"/>
 <img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.29.22.png" alt="Screenshot" width="300"/>
 <img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.29.42.png" alt="Screenshot" width="300"/>
-<img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.16.30.08.png" alt="Screenshot" width="300"/>
-<img src="BootcampBeginner/BootcampBeginner/images/Screenshot%202024-10-15%20at%2016.16.30.08.png" alt="Screenshot" width="300"/>
 </div>
 
