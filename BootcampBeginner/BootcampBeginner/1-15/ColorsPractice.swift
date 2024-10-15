@@ -9,7 +9,7 @@ struct ColorsPractice: View {
                 .edgesIgnoringSafeArea(.all)
             
         VStack(spacing: 20) {
-            Text("Welcome to Colors Practice!")
+            Text("Welcome to DarkMode Practice!")
                 .fontWeight(.bold)
                 .font(.largeTitle)
                 .foregroundColor(Color.primary)
