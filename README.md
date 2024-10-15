@@ -10,6 +10,6 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 ### Custom UI 2
 (assets/fortnite2)
 
-![Example Image](assets/your-image-name.png)
+![Example Image](https://github.com/KarimGithub-1/Swift-Basics-Practices/commit/1a34ff2239315ab08fb714468f4ef9e7ee4c807a)
 ![SwiftUI Example](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/320px-Swift_logo.svg.png)
 ![Custom UI]([BootcampBeginner/BootcampBeginner/Assets/fortnite2.png](https://github.com/KarimGithub-1/Swift-Basics-Practices/commit/1a34ff2239315ab08fb714468f4ef9e7ee4c807a))
