@@ -9,3 +9,5 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 
 ### Custom UI 2
 (assets/fortnite2)
+
+![Example Image](assets/your-image-name.png)
