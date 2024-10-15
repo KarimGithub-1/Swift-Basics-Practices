@@ -5,7 +5,7 @@ A collection of SwiftUI exercises demonstrating text formatting, shapes, gradien
 ## Example Screenshots
 
 ### Custom UI 1
-![Custom UI 1](assets/fotnite2.png)
+![Custom UI 1](Assets/fotnite2)
 
 ### Custom UI 2
 ![Custom UI 2](assets/fotnite1.png)
